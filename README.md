@@ -15,6 +15,7 @@ Olá 👋, sou o Murilo! Um apaixonado estudante de Desenvolvimentos Web.
 <details>
   <summary>👨‍💻 Um Pouco sobre Mim!</summary>
 
+
   💬 Olá! Tenho 17 anos e resido atualmente no Brasil. Possuo um conhecimento intermediário em inglês e estou em constante busca por aprimoramento. Minha experiência abrange linguagens e tecnologias como SQL, Python, Flask e Django. Além disso, possuo habilidades intermediárias em HTML e CSS, que me permitem desenvolver projetos web com fluidez e precisão. 
 
   ⚡- Sou um apaixonado em video-games, apreciando tanto os jogos de futebol quanto os RPGs. Nos meus momentos de lazer, dedico-me ao estudo de programação, explorando diversos aspectos dessa área fascinante. 
