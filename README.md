@@ -62,6 +62,4 @@ Olá 👋, sou o Murilo! Um apaixonado estudante de Desenvolvimentos Web.
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
   
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+
