@@ -1,9 +1,6 @@
-## 👋 Hi there, welcome to my Github profile
+👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-- My name is Bruno Garcia and i'm a Java Developer, from RJ, Brazil 🇧🇷
-
-## About Me
-
+Meu nome é Murilo Braz e sou Desenvolvedor Java, de SP, Brasil 
 
 ## My Techs
 <div align="left">
