@@ -4,8 +4,6 @@
 - My name is Murilo Braz and i'm a Java Developer, from SP, Brazil 🇧🇷
 
 ## About Me
-- Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
-- Tech Lead at [@Itau](https://github.com/itau)
 
 ## My Techs
 <div align="left">
@@ -17,11 +15,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
@@ -39,14 +37,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dev-brunogarcia/" target="_blank">
+  <a href="https://www.linkedin.com/in/zmurilaoo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@buildrun-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+
   <a href="https://instagram.com/buildrun.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/zmurilaoo/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
