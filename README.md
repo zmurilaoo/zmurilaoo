@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Murilo Baz
+# 👩🏻‍💻 Murilo Braz
 
 **`Desenvolvedor Back-End`**
 
