@@ -2,15 +2,12 @@
 
 **`Desenvolvedor Back-End | Java | Spring Boot | Cloud`**  
 
-Sou Murilo Braz, um desenvolvedor back-end apaixonado por tecnologia e inovação. Minha especialidade é criar soluções eficientes e escaláveis, transformando ideias em produtos robustos.  
+Sou Murilo Braz, desenvolvedor back-end apaixonado por tecnologia. Trabalho com **Java e Spring Boot**, criando soluções performáticas e escaláveis. Gosto de resolver problemas, otimizar processos e desenvolver sistemas que fazem a diferença.  
 
-Com foco principal em **Java e Spring Boot**, tenho experiência sólida em **arquitetura de software, APIs RESTful, bancos de dados relacionais e cloud computing**. Minha abordagem combina **performance, segurança e boas práticas**, garantindo código limpo e bem estruturado.  
+Atualmente, estudo **engenharia de software** e aprofundo meus conhecimentos em **microservices, mensageria (Kafka, RabbitMQ) e DevOps**.  
 
-Atualmente, estou aprimorando minhas habilidades em **microservices, mensageria (Kafka, RabbitMQ) e DevOps**, buscando sempre elevar o nível dos meus projetos.  
-
-📍 **Localização:** Guarulhos - SP  
-📚 **Em constante evolução:** Ciência da Computação | Engenharia de Software | Arquitetura de Sistemas  
-🚀 **Objetivo:** Criar soluções que impactam e escalem!  
+📍 **Guarulhos - SP**  
+🚀 **Objetivo:** Ser um engenheiro de software de alto nível  
 
 ---
 
@@ -19,12 +16,12 @@ Atualmente, estou aprimorando minhas habilidades em **microservices, mensageria 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,kafka,git,linux)](https://skillicons.dev)  
 
 💡 **Destaques:**  
-✔ Desenvolvimento back-end de alto desempenho  
-✔ Arquitetura escalável e otimizada  
-✔ Integração de APIs e sistemas distribuídos  
-✔ Automação e otimização de processos  
+✔ Desenvolvimento back-end eficiente  
+✔ APIs RESTful e microsserviços  
+✔ Bancos de dados e otimização de queries  
+✔ Integração de sistemas e automação  
 
 ---
 
-### 🔥 **Vamos construir algo incrível juntos?**  
-📩 **Entre em contato:** [Seu e-mail/linkedin/portfólio]  
+### 🔥 **Bora construir algo foda?**  
+📩 **Entre em contato:*www.ciey.com.br**
