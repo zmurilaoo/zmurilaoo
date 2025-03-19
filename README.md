@@ -2,22 +2,22 @@
 
 **`Desenvolvedor Back-End | Java | Spring Boot | PostgreSQL | MySQL | Docker`**  
 
-Desenvolvedor back-end focado em **Java e Spring Boot**, construindo sistemas performáticos e escaláveis. Respiro código, otimização e eficiência.  
+Sou um desenvolvedor back-end focado em **Java e Spring Boot**, sempre buscando performance, escalabilidade e boas práticas. Construo APIs robustas, integro sistemas e otimizo processos para entregar soluções eficientes.  
 
-Atualmente, mergulho fundo em **PostgreSQL, MySQL, Docker e mensageria**, sempre buscando evolução contínua.  
+Atualmente, aprimoro meus conhecimentos em **PostgreSQL, MySQL, Docker e mensageria**, enquanto avanço para **AWS, microsserviços, DevOps e algoritmos avançados**. Meu objetivo é dominar **engenharia de software** e criar sistemas de alto nível.  
 
 ---
 
 ### 🚀 **Tecnologias & Ferramentas**  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,git,linux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
 
-✔ APIs performáticas e seguras  
-✔ Bancos de dados otimizados  
-✔ Microsserviços e escalabilidade  
-✔ Automação e integração de sistemas  
+✔ **Desenvolvimento back-end de alto desempenho**  
+✔ **APIs seguras e escaláveis**  
+✔ **Bancos de dados otimizados**  
+✔ **Automação, integração de sistemas e cloud computing** 
 
 ---
 
 ### 🔥 **Bora construir algo foda?**  
-📩 **Entre em contato:** [Seu e-mail/linkedin/portfólio]  
+📩 **Entre em contato:** **www.ciey.com.br  
