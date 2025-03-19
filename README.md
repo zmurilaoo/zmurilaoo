@@ -10,15 +10,7 @@ Minha jornada na programação começou há algum tempo, e já conquistei conhec
 
 ### 🤖 Linguagens e Tecnologias
 
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=all" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,mysql,docker,mysql)](https://skillicons.dev)
 
 <img
   align="left" 
