@@ -20,4 +20,4 @@ Atualmente, aprimoro meus conhecimentos em **PostgreSQL, MySQL, Docker e mensage
 ---
 
 ### 🔥 **Bora construir algo foda?**  
-📩 **Entre em contato:** **www.ciey.com.br  
+📩 **Entre em contato**: **www.ciey.com.br**  
