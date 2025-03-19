@@ -4,7 +4,7 @@
 
 Sou Murilo Braz, desenvolvedor back-end apaixonado por tecnologia. Trabalho com **Java e Spring Boot**, criando soluções performáticas e escaláveis. Gosto de resolver problemas, otimizar processos e desenvolver sistemas que fazem a diferença.  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,kafka,git,linux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
 
 💡 **Destaques:**  
 ✔ **Desenvolvimento back-end eficiente**  
