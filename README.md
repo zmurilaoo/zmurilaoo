@@ -1,18 +1,23 @@
 # 👨🏽‍💻 Murilo Braz  
 
-**`Desenvolvedor Java`**  
+**`Desenvolvedor Back-End | Java | Spring Boot | PostgreSQL | MySQL | Docker`**  
 
-Sou Murilo Braz, desenvolvedor back-end apaixonado por tecnologia. Trabalho com **Java e Spring Boot**, criando soluções performáticas e escaláveis. Gosto de resolver problemas, otimizar processos e desenvolver sistemas que fazem a diferença.  
+Desenvolvedor back-end focado em **Java e Spring Boot**, construindo sistemas performáticos e escaláveis. Respiro código, otimização e eficiência.  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
+Atualmente, mergulho fundo em **PostgreSQL, MySQL, Docker e mensageria**, sempre buscando evolução contínua.  
 
-💡 **Destaques:**  
-✔ **Desenvolvimento back-end eficiente**  
-✔ **APIs RESTful e microsserviços**  
-✔ **Bancos de dados e otimização de queries**  
-✔ **Integração de sistemas e automação**  
+---
+
+### 🚀 **Tecnologias & Ferramentas**  
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,git,linux)](https://skillicons.dev)  
+
+✔ APIs performáticas e seguras  
+✔ Bancos de dados otimizados  
+✔ Microsserviços e escalabilidade  
+✔ Automação e integração de sistemas  
 
 ---
 
 ### 🔥 **Bora construir algo foda?**  
-📩 **Entre em contato**:  **www.ciey.com.br**
+📩 **Entre em contato:** [Seu e-mail/linkedin/portfólio]  
