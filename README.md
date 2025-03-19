@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Murilo Braz  
 
-**`Desenvolvedor Back-End | Java | Spring Boot | PostgreSQL | MySQL | Docker`**  
+**`Desenvolvedor Java`**  
 
 Sou um desenvolvedor back-end focado em **Java e Spring Boot**, sempre buscando performance, escalabilidade e boas práticas. Construo APIs robustas, integro sistemas e otimizo processos para entregar soluções eficientes.  
 
