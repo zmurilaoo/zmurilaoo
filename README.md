@@ -1,53 +1,30 @@
-# 👨🏽‍💻 Murilo Braz
+# 👨🏽‍💻 Murilo Braz  
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End | Java | Spring Boot | Cloud`**  
 
-Sou Murilo Braz, um jovem apaixonado por tecnologia e sempre em busca de novos desafios! Tenho 18 anos e sou estudante dedicado de desenvolvimento de software, com foco principal em Java. Atualmente, moro em Guarulhos, SP, e estou trilhando o caminho para me tornar um desenvolvedor de alto nível.
+Sou Murilo Braz, um desenvolvedor back-end apaixonado por tecnologia e inovação. Minha especialidade é criar soluções eficientes e escaláveis, transformando ideias em produtos robustos.  
 
-Minha jornada na programação começou há algum tempo, e já conquistei conhecimento sólido em lógica de programação, estruturas de dados e Programação Orientada a Objetos (POO). Gosto de enfrentar problemas complexos, criar soluções criativas e aprender enquanto construo projetos reais.
+Com foco principal em **Java e Spring Boot**, tenho experiência sólida em **arquitetura de software, APIs RESTful, bancos de dados relacionais e cloud computing**. Minha abordagem combina **performance, segurança e boas práticas**, garantindo código limpo e bem estruturado.  
+
+Atualmente, estou aprimorando minhas habilidades em **microservices, mensageria (Kafka, RabbitMQ) e DevOps**, buscando sempre elevar o nível dos meus projetos.  
+
+📍 **Localização:** Guarulhos - SP  
+📚 **Em constante evolução:** Ciência da Computação | Engenharia de Software | Arquitetura de Sistemas  
+🚀 **Objetivo:** Criar soluções que impactam e escalem!  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 **Tecnologias & Ferramentas**  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,mysql,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,kafka,git,linux)](https://skillicons.dev)  
 
-<img
-  align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+💡 **Destaques:**  
+✔ Desenvolvimento back-end de alto desempenho  
+✔ Arquitetura escalável e otimizada  
+✔ Integração de APIs e sistemas distribuídos  
+✔ Automação e otimização de processos  
 
- 
-<img
-align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
-          
+---
 
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=zmurilaoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  
-
-</p>
+### 🔥 **Vamos construir algo incrível juntos?**  
+📩 **Entre em contato:** [Seu e-mail/linkedin/portfólio]  
