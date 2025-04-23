@@ -12,12 +12,4 @@ Atualmente, aprimoro meus conhecimentos em **PostgreSQL, MySQL, Docker e mensage
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
 
-✔ **Desenvolvimento back-end de alto desempenho**  
-✔ **APIs seguras e escaláveis**  
-✔ **Bancos de dados otimizados**  
-✔ **Automação, integração de sistemas e cloud computing** 
 
----
-
-### 🔥 **Bora construir algo foda?**  
-📩 **Entre em contato**: **www.ciey.com.br**  
