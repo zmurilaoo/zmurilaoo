@@ -10,6 +10,6 @@ Atualmente, aprimoro meus conhecimentos em Spring, PostgreSQL, MySQL e Docker, e
 
 ### 🚀 **Tecnologias & Ferramentas**  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,php,spring,postgresql,mysql,docker,aws,git)](https://skillicons.dev)  
 
 
